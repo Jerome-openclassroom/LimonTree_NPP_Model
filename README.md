@@ -86,6 +86,8 @@ Photosynthesis → cellulose conversion confirms coherence.
 | Path 2 | Actual ETP vs Penman | ~5.4 gC/day |
 | Path 3 | H₂O balance – WUE | ~7 gC/day |
 
+To align the equation-based NPP (19.5 gC/j) with real conditions, multiply it by the ratio of actual ETP (2 L/j) to Penman ETP (7.28 L/j), i.e., 2/7.28 ≈ 0.2747, yielding an adjusted NPP of ~5.4 gC/j, consistent with observed data
+
 ## 💧 Practical recommendations
 
 * Capacitive sensor reliable for vegetable gardens and micro-plots (root depth 5–20 cm).
