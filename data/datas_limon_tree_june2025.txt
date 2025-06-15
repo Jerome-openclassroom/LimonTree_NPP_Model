@@ -1,0 +1,50 @@
+11 juin 2025
+
+12h30 69 cb arrosage --> 12 cb
+14h00 11 cb
+15h20 11 cb
+17h00 12 cb
+18h30 12 cb
+20h20 13 cb
+
+
+
+15h00 36°C Température Sec 33°C humide 20°C --> Calcul RH = approx 28% Météociel 28%
+18h00 36°C Température Sec 33°C humide 21°C --> Calcul RH = approx 33% Météociel 18% --> microclimat dans le jardin
+
+
+Mini-Maxi du jour 16 - 37°C (sources météo France)
+Ecart aux normales +0°C - +9°C
+Pression 1016 hpa à midi
+1012 hpa à 17h00
+Ciel dégagé, ensoleillé, vent calme.
+
+12 juin 2025
+
+10h45 24 cb
+12h50 26 cb
+14h00 27 cb
+16h10 29 cb Moist 80% (8)
+
+11h00 Température Sec 25°C humide 20°C --> Calcul RH = approx 63%  - Infoclimat 65% en moyenne
+13h00 Température Sec 28°C humide 22°C --> Calcul RH = approx 59%  - Infoclimat 55% en moyenne
+16h00 Température sec = 32°C Température humide 23°C --> calcul RH = approx 46% - Infoclimat 46% quasi identique à 17h00
+
+Mini-Maxi du jour 16 - 32°C (sources météo France)
+Ecart aux normales +0°C - +4°C
+Pression 1016 hpa à 11h09
+Ciel dégagé, ensoleillé, vent calme.
+
+
+13 juin 2025
+
+7h15 45 cb 70%
+10h35 46 cb 70%
+14h30 46 cb Tsec = 31°C T humide = 22°C Calcul RH = approx 45%
+21h14 49 cb 60% Tsec = 27°C T humide = 19°C Calcul RH = approx 47% infoclimat 43 à 47%
+
+Mini-Maxi du jour 17 - 33°C (sources météo France)
+Ecart aux normales +1°C - +5°C
+Pression 1018 hpa à 21h33
+Ciel dégagé, ensoleillé, vent calme.
+

@@ -1,0 +1,35 @@
+10 feuilles de surfaces et colorations caractéristiques ont été prélevées, en répartition caractéristique de l'arbre.
+Scan en 200 dpi.
+
+Mesurim :
+
+Surface foliaire totale 301.4 cm²
+Surface moyenne 30.14 cm²
+
+ImageJ:
+
+DO_vert :
+Feuilles claires :
+423.040
+400.838
+376.471
+369.726
+401.039
+
+SPAD moyen avec 4 mesures par feuille (mesuré par ailleurs) : 32.6 unités SPAD
+
+Feuilles foncées :
+454.037
+467.983
+447.389
+458.049
+462.128
+
+SPAD moyen avec 4 mesures par feuille (mesuré par ailleurs) : 56.1 unités SPAD
+
+Dimensions du houppier :
+1m40 X 1m30 pour 1m20 de hauteur
+Environ 24 branches et rameaux, 20 à 44 feuilles par branche ou rameau.
+
+Estimation de la surface foliaire totale : 23146 cm² ou 2.3146 m²
+
