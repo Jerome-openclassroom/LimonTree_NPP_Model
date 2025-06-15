@@ -1,5 +1,5 @@
 
-# ✅ README – Water monitoring and Net Primary Production (NPP) modeling for a potted lemon tree. Validation of a low-cost soil moisture sensor.
+# ✅ Water monitoring and Net Primary Production (NPP) modeling for a potted lemon tree. Validation of a low-cost soil moisture sensor.
 
 ## 📌 Context
 
@@ -93,6 +93,24 @@ To align the equation-based NPP (19.5 gC/j) with real conditions, multiply it by
 * Capacitive sensor reliable for vegetable gardens and micro-plots (root depth 5–20 cm).
 * For hobby orchards: limitation due to deeper roots (30–60 cm) → prefer multi-depth Watermark + dendrometer.
 
+## 📎 Addendum — Microscopic View of Leaf Stomatal Openings (Pedagogical Illustration)
+
+As an educational complement, a microscope image of the lower epidermis of a leaf is included.  
+This image was captured using the same optical microscope, calibrated with millimeter paper at **X40 magnification**, using digiscopy with a digital camera.
+
+**How to interpret this image:**  
+What you see are tiny, scattered openings on the lower leaf surface — these are **the external view of stomatal pores**, appearing as micro-holes in the epidermis. They mark the sites where CO₂ enters and O₂/H₂O exit, driving the gas exchange mechanisms studied in the NPP model.
+
+Unlike stained histological sections, this direct surface view shows stomata as they appear naturally under reflected or transmitted light, without chemical clearing.
+
+**Measurement:**  
+Using ImageJ and the established scale, six of these pores were measured:
+- **Mean apparent diameter:** 30 µm  
+- **Standard deviation:** ± 3 µm
+
+This confirms that the modeled gas fluxes are rooted in real, visible epidermal microstructures.
+
+
 ## 🗂️ Structure
 
 ```plaintext
@@ -111,6 +129,8 @@ To align the equation-based NPP (19.5 gC/j) with real conditions, multiply it by
 │   ├── capacitive_sensor.jpg
 │   ├── Watermark_1.jpg
 │   ├── Watermark_2.jpg
+    ├── X40.jpg #grid for microscope calibration at X40
+    ├── stomates.jpg
 ├── /scripts/
 │   ├── npp_model.py # Python script for NPP calculations
 ```
