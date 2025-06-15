@@ -87,6 +87,9 @@ Conversion photosynthèse → cellulose valide la cohérence.
 | Voie 2 | ETP réelle vs Penman | \~5.4 gC/j  |
 | Voie 3 | Bilan H₂O – WUE      | \~7 gC/j    |
 
+
+Pour aligner la NPP équationnelle (19,5 gC/j) avec les conditions réelles, multipliez-la par le rapport de l'ETP réelle (2 L/j) à l'ETP Penman (7,28 L/j), soit 2/7,28 ≈ 0,2747, ce qui donne une NPP ajustée d’environ 5,4 gC/j, cohérente avec les données observées.
+
 ## 💧 Recommandations pratiques
 
 * Capteur capacitif fiable pour potager et micro-parcelle (5–20 cm de profondeur racinaire).
