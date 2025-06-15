@@ -110,6 +110,13 @@ Using ImageJ and the established scale, six of these pores were measured:
 
 This confirms that the modeled gas fluxes are rooted in real, visible epidermal microstructures.
 
+In addition to measuring the average stomatal diameter, the stomatal density was also estimated directly from the same calibrated microscope image. 
+This was done by drawing three rectangular regions on the leaf surface, measuring their areas in ImageJ, and then manually counting the visible stomatal openings within each region using Mesurim.
+
+For the three areas (0.434 mm², 0.429 mm², and 0.382 mm²), the counts were 38, 29, and 29 stomata respectively, resulting in a mean stomatal density of about **77 stomata per mm²** with a standard deviation of ±10.
+
+This value is consistent with literature ranges for Poaceae species (typically 50–120 stomata/mm²) and demonstrates that both the microscopic structure (pore size and density) and the modeled gas exchange parameters (CO₂ intake, transpiration) are coherent and biologically realistic.
+
 
 ## 🗂️ Structure
 
@@ -131,6 +138,7 @@ This confirms that the modeled gas fluxes are rooted in real, visible epidermal 
 │   ├── Watermark_2.jpg # Watermark probe placement
     ├── X40.jpg #grid for microscope calibration at X40
     ├── stomates.jpg # Microscopic view of stomatal pores (lemongrass)
+    ├── stomatal_density.jpg # Measurement of stomatal pores density with Mesurim(lemongrass)
 ├── /scripts/
 │   ├── npp_model.py # Python script for NPP calculations
 ```
@@ -142,6 +150,8 @@ This confirms that the modeled gas fluxes are rooted in real, visible epidermal 
 * [Météo France](https://meteofrance.com/)
 * [Infoclimat](https://www.infoclimat.fr/)
 * [Météociel](https://www.meteociel.fr/)
+* [Mesurim](https://www.pedagogie.ac-nice.fr/svt/productions/mesurim2/)
+* [ImageJ](https://imagej.net/)
 
 🔗 **Related project**:  
 ## 🔗 Part of the Lyra Ecosystem
