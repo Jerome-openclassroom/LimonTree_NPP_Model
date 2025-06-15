@@ -121,16 +121,16 @@ This confirms that the modeled gas fluxes are rooted in real, visible epidermal 
 │   ├── datas_limon_tree_june2025.txt   # Watermark log + climate
 │   ├── mesures_limon_tree_june2025.txt # Leaf area, DO, SPAD
 ├── /photos/
-│   ├── scan_feuilles.jpg
-│   ├── top_view.jpg
-│   ├── side_view.jpg
-│   ├── shading_panel.jpg
-│   ├── psychrometer.jpg
-│   ├── capacitive_sensor.jpg
-│   ├── Watermark_1.jpg
-│   ├── Watermark_2.jpg
+│   ├── scan_feuilles.jpg # Flat scan of leaves for area measurement
+│   ├── top_view.jpg # Canopy from above
+│   ├── side_view.jpg # Canopy side profile
+│   ├── shading_panel.jpg # Handmade shading panel to control microclimate
+│   ├── psychrometer.jpg # Psychrometer used for RH/T°
+│   ├── capacitive_sensor.jpg # Soil moisture sensor in situ
+│   ├── Watermark_1.jpg  # Reading device
+│   ├── Watermark_2.jpg # Watermark probe placement
     ├── X40.jpg #grid for microscope calibration at X40
-    ├── stomates.jpg
+    ├── stomates.jpg # Microscopic view of stomatal pores (lemongrass)
 ├── /scripts/
 │   ├── npp_model.py # Python script for NPP calculations
 ```
