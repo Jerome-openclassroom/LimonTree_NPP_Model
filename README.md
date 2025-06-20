@@ -115,7 +115,7 @@ This was done by drawing three rectangular regions on the leaf surface, measurin
 
 For the three areas (0.434 mm², 0.429 mm², and 0.382 mm²), the counts were 38, 29, and 29 stomata respectively, resulting in a mean stomatal density of about **77 stomata per mm²** with a standard deviation of ±10.
 
-This value is consistent with literature ranges for Poaceae species (typically 50–120 stomata/mm²) and demonstrates that both the microscopic structure (pore size and density) and the modeled gas exchange parameters (CO₂ intake, transpiration) are coherent and biologically realistic.
+This value is consistent with literature ranges for Verbenaceae species (typically 50–120 stomata/mm²) and demonstrates that both the microscopic structure (pore size and density) and the modeled gas exchange parameters (CO₂ intake, transpiration) are coherent and biologically realistic.
 
 
 ## 🗂️ Structure
