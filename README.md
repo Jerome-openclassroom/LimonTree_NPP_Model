@@ -137,8 +137,8 @@ This value is consistent with literature ranges for Poaceae species (typically 5
 │   ├── Watermark_1.jpg  # Reading device
 │   ├── Watermark_2.jpg # Watermark probe placement
     ├── X40.jpg #grid for microscope calibration at X40
-    ├── stomates.jpg # Microscopic view of stomatal pores (lemongrass)
-    ├── stomatal_density.jpg # Measurement of stomatal pores density with Mesurim(lemongrass)
+    ├── stomates.jpg # Microscopic view of stomatal pores (Aloysia citrodora (lemon verbena))
+    ├── stomatal_density.jpg # Measurement of stomatal pores density with Mesurim (Aloysia citrodora (lemon verbena))
 ├── /scripts/
 │   ├── npp_model.py # Python script for NPP calculations
 ```
