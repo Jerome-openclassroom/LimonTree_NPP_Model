@@ -130,7 +130,7 @@ The measured values (mean stomatal diameter ~30 µm; density ~77 stomata/mm²) f
 │   ├── scan_feuilles.jpg # Flat scan of leaves for area measurement
 │   ├── top_view.jpg # Canopy from above
 │   ├── side_view.jpg # Canopy side profile
-│   ├── shading_panel.jpg # Handmade shading panel to control microclimate
+│   ├── shading_panel.jpg # Handmade shading panel to protect psychrometer from direct sun exposure.
 │   ├── psychrometer.jpg # Psychrometer used for RH/T°
 │   ├── capacitive_sensor.jpg # Soil moisture sensor in situ
 │   ├── Watermark_1.jpg  # Reading device
